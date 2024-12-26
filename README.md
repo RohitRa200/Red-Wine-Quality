@@ -147,8 +147,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Name**: [Rohit Raj]
-- **Email**: [rohitrajrajrohit60@gmail.com](mailto\:Rohitrajrajrohit60@gmail.com)
+- **Name**: Rohit Raj
+- **Email**: [Rohit Raj](mailto\:Rohitrajrajrohit60@gmail.com)
 - **LinkedIn**: [Rohit Raj](https://www.linkedin.com/in/rohitrajanalyticsmind/)
 
 ---
